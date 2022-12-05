@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="default_amount">0.0</string>
+    <string name="no_internet">No Internet</string>
+    <string name="refresh">Refresh</string>
+    <string name="title_activity_testact">testact</string>
+    <string name="arrow_down">▼</string>
+</resources>
